@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MyGui3
+comment0.text=\r\n\ ImageViewer\ is\ the\ main\ class\ of\ the\ image\ viewer\ application.\ It\ builds\ \r\n\ and\ displays\ the\ application\ GUI.\r\n\ \r\n\ This\ project\ uses\ individualised\ evnt\ handlers\r\n\ \r\n\r\n
+comment1.params=
+comment1.target=MyGui3()
+comment2.params=
+comment2.target=void\ makeFrame()
+comment2.text=\r\n\ Create\ the\ Swing\ frame\ and\ its\ content.\r\n
+comment3.params=
+comment3.target=void\ makeMenuBar()
+comment3.text=\r\n\ Create\ the\ main\ frame's\ menu\ bar.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

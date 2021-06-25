@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=id\ n\ pway
+comment0.target=Student(int,\ String,\ String)
+comment0.text=\nCreates\ a\ Student\ with\ a\ unique\ id\ number\ and\ a\ name\ initialised\ from\ parameters\nStudents\ are\ treated\ as\ "home"\ students\ by\ default\n@param\ id\ it\ is\ the\ responsibility\ of\ the\ client\ to\ ensure\ that\ id\ is\ a\ unique\ number\n@param\ n\ is\ the\ String\ representation\ of\ the\ student's\ name\n@param\ pway\ is\ the\ pathway\ given\ as\ a\ String\n\n
+comment1.target=boolean\ isInternational()
+comment1.text=\n@return\ returns\ true\ if\ the\ students\ is\ an\ international\ student,\ else\ false\n\n
+comment2.target=void\ setInternational()
+comment2.text=\nresets\ student\ from\ "Home"\ (default)\ to\ International\n\n
+comment3.target=String\ toString()
+comment3.text=\nReturns\ a\ String\ represnetation\ of\ the\ student\n@return\ a\ String\ representation\ of\ the\ student,\ including\ the\ id\ number\ and\ name\n\n
+numComments=4

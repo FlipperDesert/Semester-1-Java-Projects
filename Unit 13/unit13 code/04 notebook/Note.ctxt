@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=heading
+comment0.target=Note(java.lang.String)
+comment0.text=\r\n\ Create\ a\ note\ with\ a\ supplied\ heading\r\n\ @param\ -\ the\ heading\ of\ the\ note\r\n
+comment1.params=hding\ text
+comment1.target=Note(java.lang.String,\ java.lang.String)
+comment2.params=text
+comment2.target=void\ append(java.lang.String)
+comment2.text=\r\n\ Add\ content\ to\ the\ note\ (append).\ \ If\ there\ is\ no\ text\ in\ the\ note\r\n\ then\ this\ text\ is\ first\ content.\ \ If\ there\ is\ already\ text\ the\ this\ is\ \r\n\ appended\r\n\ \r\n\ @param\ \ text\ -\ the\ content\ you\ wish\ to\ add\r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getHeading()
+comment4.params=
+comment4.target=java.lang.String\ getContent()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

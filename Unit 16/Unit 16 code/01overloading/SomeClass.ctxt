@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=SomeClass(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ SomeClass\r\n
+comment1.params=x\ y
+comment1.target=SomeClass(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SomeClass\r\n
+comment2.params=y
+comment2.target=SomeClass(double)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ SomeClass\r\n
+comment3.params=w
+comment3.target=double\ sampleMethod(int)
+comment4.params=y
+comment4.target=double\ sampleMethod(double)
+comment5.params=y\ z
+comment5.target=double\ sampleMethod(double,\ double)
+numComments=6

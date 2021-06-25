@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InheritanceTest
+comment0.text=\n\ Tests\ and\ prints\ inheritance\ methods\ on\ Pass\ objects.\n\n\ @author\ (J\ Reece)\n\ @version\ (16/12/19)\n
+comment1.params=
+comment1.target=InheritanceTest()
+comment1.text=\n\ Tests\ toString(),\ enterCavern(),\ getTokens(),\ getLoyalty()\n\ and\ toToken()\n
+comment2.params=arguments
+comment2.target=void\ main(java.lang.String[])
+numComments=3

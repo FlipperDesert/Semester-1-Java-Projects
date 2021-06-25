@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=day\ month\ year
+comment0.target=Date(int,\ int,\ int)
+comment0.text=\r\nConstruct\ new\ Date\ with\ day\ as\ int,\ month\ as\ int\ and\ year\ as\ int\r\n
+comment1.params=
+comment1.target=int\ getDay()
+comment1.text=\r\nGet\ the\ day\ of\ this\ date\ as\ an\ int\r\n
+comment2.params=
+comment2.target=int\ getMonth()
+comment2.text=\r\nGet\ the\ month\ of\ this\ date\ as\ an\ int\r\n
+comment3.params=
+comment3.target=int\ getYear()
+comment3.text=\r\nGet\ the\ year\ of\ this\ date\ as\ an\ int\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDate()
+comment4.text=\r\nGet\ this\ date\ as\ a\ String\ in\ the\ format\:\ d-m-y\r\n
+numComments=5

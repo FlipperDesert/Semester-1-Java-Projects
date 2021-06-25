@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CD
+comment0.text=\n\ The\ CD\ class\ represents\ a\ CD\ object.\ Information\ about\ the\ \n\ CD\ is\ stored\ and\ can\ be\ retrieved.\n\ \n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\n\ @version\ 2006.03.30\ amended\ by\ A.A.Marczyk\ 2007.12.01\n
+comment1.params=theTitle\ theArtist\ tracks\ time
+comment1.target=CD(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\n\ Initialize\ the\ CD.\n\ @param\ theTitle\ The\ title\ of\ the\ CD.\n\ @param\ theArtist\ The\ artist\ of\ the\ CD.\n\ @param\ tracks\ The\ number\ of\ tracks\ on\ the\ CD.\n\ @param\ time\ The\ playing\ time\ of\ the\ CD.\n
+comment2.params=
+comment2.target=java.lang.String\ getArtist()
+comment2.text=\ \n\ @return\ the\ artist\n
+comment3.params=dir
+comment3.target=void\ setArtist(java.lang.String)
+comment3.text=\ \n\ sets\ a\ new\ artist\n\ @dir\ the\ new\ artist\n
+comment4.params=
+comment4.target=int\ getTracks()
+comment4.text=\ \n\ @return\ the\ number\ of\ tracks\n
+comment5.params=trks
+comment5.target=void\ setTracks(int)
+comment5.text=\ \n\ sets\ number\ of\ tracks\n\ @trks\ number\ of\ tracks\n
+comment6.params=
+comment6.target=void\ print()
+comment6.text=\n\ Print\ details\ about\ this\ CD\ to\ the\ text\ terminal.\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ returns\ details\ about\ this\ Item\ .\n
+numComments=8

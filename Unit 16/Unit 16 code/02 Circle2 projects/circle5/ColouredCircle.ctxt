@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=c\ r
+comment0.target=ColouredCircle(java.awt.Color,\ double)
+comment0.text=\r\n\ Constructor\ takes\ a\ java.awt.Color\ and\ circle\ radius\r\n
+comment1.params=
+comment1.target=java.awt.Color\ getColour()
+comment1.text=\r\n\ Returns\ java.awt.Color\ -\ the\ colour\ of\ this\ circle\r\n
+comment2.params=c
+comment2.target=void\ setColour(java.awt.Color)
+comment2.text=\r\n\ Sets\ colour\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\ \r\n\ returns\ string\ version\ of\ coloured\ circle\r\n\ Works\ now\ with\ super.toString()\ what\ does\ this\ do\ ?\r\n
+numComments=4

@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=MessageArray
+comment0.text=\r\n\ Stores\ "messages".\ \ Messages\ are\ just\ Strings\r\n
+comment1.params=
+comment1.target=MessageArray()
+comment1.text=\r\n\ Construct\ an\ empty\ messageList\r\n
+comment2.params=mess
+comment2.target=void\ storeMessage(java.lang.String)
+comment2.text=\r\n\ Store\ a\ new\ message\ into\ the\ messageList\ by\ appending\ it\ \r\n\ to\ the\ end\ of\ the\ current\ list\ of\ messages.\ Increment\ count\r\n\ @param\ message\ The\ message\ to\ be\ stored.\r\n
+comment3.params=index
+comment3.target=java.lang.String\ getMessage(int)
+comment3.text=\r\n\ Retrieves\ the\ message\ stored\ in\ the\ position\ supplied\ as\ a\ parameter.\ \ \r\n\ The\ parameter\ must\ be\ >\=\ 0\ and\ <\ the\ number\ of\ messages\ in\ the\ messageList.\r\n\ If\ the\ index\ parameter\ is\ out\ of\ this\ range\ null\ will\ be\ returned\r\n\ @return\ the\ message\ \r\n
+comment4.params=index\ n
+comment4.target=void\ insertMessage(int,\ java.lang.String)
+comment4.text=\r\n\ Inserts\ a\ message\ into\ the\ messageList\ in\ the\ position\ supplied\ as\ a\ parameter.\ \ \r\n\ The\ parameter\ must\ be\ >\=\ 0\ and\ <\ the\ number\ of\ messages\ in\ the\ messageList.\r\n\ If\ the\ index\ parameter\ is\ out\ of\ this\ range\ no\ action\ will\ be\ taken\r\n\ @param\ int\ index\ at\ which\ the\ message\ should\ be\ inserted\r\n\ @param\ message\ to\ be\ inserted\ \r\n
+comment5.params=index
+comment5.target=void\ deleteMessage(int)
+comment5.text=\r\n\ Deletes\ the\ message\ at\ the\ position\ supplied\ as\ a\ parameter.\ \ \r\n\ The\ parameter\ must\ be\ >\=\ 0\ and\ <\ the\ number\ of\ messages\ in\ the\ messageList.\r\n\ If\ the\ index\ parameter\ is\ out\ of\ this\ range\ no\ action\ will\ be\ taken\r\n\ Message\ is\ deleted\ by\ overwriting\r\n\ @param\ int\ index\ of\ the\ message\ to\ be\ deleted\r\n
+comment6.params=
+comment6.target=int\ numberOfMessages()
+comment6.text=\r\n\ @return\ The\ number\ of\ messages\ currently\ in\ the\ messageList.\r\n
+comment7.params=
+comment7.target=void\ showAllMessages()
+comment7.text=\r\n\ Show\ all\ the\ messages\ contained\ in\ the\ message\ List.\r\n\ \r\n
+comment8.params=index
+comment8.target=boolean\ isInBounds(int)
+comment8.text=this\ is\ a\ private\ method.\ \ It\ cannot\ be\ seen\ or\ accessed\ by\ anything\ outside\ this\r\nclass.\ \ It\ does\ not\ have\ Javadoc\ style\ comments.\ \ This\ comment\ is\ purely\ for\ learning\r\n\ purposes.\r\n
+numComments=9

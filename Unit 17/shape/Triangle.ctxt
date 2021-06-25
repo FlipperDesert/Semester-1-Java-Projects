@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=c\ b\ h
+comment0.target=Triangle(java.awt.Color,\ int,\ int)
+comment0.text=\r\nConstruct\ a\ triangle\ with\ a\ supplied\ base\ and\ height\r\n
+comment1.params=
+comment1.target=double\ getArea()
+comment1.text=\r\nReturn\ the\ area\ of\ the\ triangle\ as\ a\ double\r\n
+numComments=2

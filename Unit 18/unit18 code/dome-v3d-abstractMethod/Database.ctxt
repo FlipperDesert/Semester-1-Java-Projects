@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Database()
+comment0.text=\r\n\ Construct\ an\ empty\ Database.\r\n
+comment1.params=theItem
+comment1.target=void\ addItem(Item)
+comment1.text=\r\n\ Add\ an\ item\ to\ the\ database.\r\n\ @param\ theItem\ The\ item\ to\ be\ added.\r\n
+comment2.params=
+comment2.target=void\ list()
+comment2.text=\r\n\ Print\ a\ list\ of\ all\ currently\ stored\ items\ to\ the\r\n\ text\ terminal.\r\n
+comment3.params=
+comment3.target=void\ list2()
+comment3.text=\ using\ toString()\r\n
+comment4.params=
+comment4.target=void\ setAllOwn()
+comment4.text=\ Calling\ parent\ method\r\n\ \r\n
+comment5.params=
+comment5.target=void\ listAllTracks()
+comment5.text=\ lists\ all\ CD\ no\ of\ tracks\ -\ ONLY\ way\ to\ do\ this\r\n
+comment6.params=
+comment6.target=void\ listAllMakers()
+comment6.text=\ get\ Makers\r\n\ \r\n
+numComments=7

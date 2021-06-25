@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestPoly1
+comment0.text=\ Tests\ polymorphic\ creation\ and\ assignment\r\n\ Expect\ compilation\ errors\r\n\ @author\ A.A.Marczyk\ \r\n\ @version\ 14/10/2010\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

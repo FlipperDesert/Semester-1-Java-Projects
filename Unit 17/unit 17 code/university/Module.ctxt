@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Module
+comment0.text=\n\ Write\ a\ description\ of\ class\ Module\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=titleIn\ id
+comment1.target=Module(java.lang.String,\ int)
+comment2.params=input
+comment2.target=void\ addPerson(Person)
+comment3.params=name
+comment3.target=void\ removePerson(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNames()
+comment5.params=
+comment5.target=java.lang.String\ getInternational()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

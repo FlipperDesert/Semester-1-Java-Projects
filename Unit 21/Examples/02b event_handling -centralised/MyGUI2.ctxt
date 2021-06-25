@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MyGUI2
+comment0.text=\r\n\ ImageViewer\ is\ the\ main\ class\ of\ the\ image\ viewer\ application.\ It\ builds\ \r\n\ and\ displays\ the\ application\ GUI.\r\n\ \r\n\ A\ Listener\ has\ been\ added\ to\ the\ "Open"\ menu\ item\ of\ the\ File\ menu\ (and\ not\r\n\ to\ the\ "Quit"\ menu\ item\ or\ to\ the\ Label\r\n\ Now,\ if\ a\ user\ selects\ other\ "Open"\ menu\ items\ something\ happens\r\n\ \r\n\ This\ version\ uses\ "centralised"\ event\ handling.\ The\ whole\ class\ acts\ as\ the\ listener\ \r\n\ The\ "implements\ ActionListener"\ means\ it\ must\ have\ an\ actionPerformed()\ to\ handle\ events\r\n\ In\ this\ case,\ only\ one\ event\ is\ noticed\ \:\ selection\ of\ the\ "Open"\ menu\ item\r\n\ \r\n
+comment1.params=
+comment1.target=MyGUI2()
+comment1.text=\r\n\ Create\ an\ ImageViewer\ show\ it\ on\ screen.\r\n
+comment2.params=
+comment2.target=void\ makeFrame()
+comment2.text=\r\n\ Create\ the\ Swing\ frame\ and\ its\ content.\r\n
+comment3.params=
+comment3.target=void\ makeMenuBar()
+comment3.text=\r\n\ Create\ the\ main\ frame's\ menu\ bar.\r\n
+comment4.params=event
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

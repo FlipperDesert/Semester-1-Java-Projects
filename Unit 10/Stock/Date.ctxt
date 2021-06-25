@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Date
+comment0.text=\n\ Simple\ Date\ Class\ -\ no\ error\ checking.\n\ \n\ @author\ Mick\ Wood\n\ @version\ Version\ 1.0\ -\ amended\ by\ A.A.Marczyk\ 10/10/2003\n\ \n
+comment1.params=
+comment1.target=Date()
+comment1.text=\nParameterless\ constructor\ with\ date\ set\ to\ the\ default\ 1/1/2000
+comment2.params=d\ m\ y
+comment2.target=Date(int,\ int,\ int)
+comment2.text=\n\ Constructor\ for\ creating\ a\ specific\ date.\n\ @param\ d\ the\ day\ part\ of\ the\ date\ (1\ -\ 31,\ depending\ on\ the\ month).\n\ @param\ m\ the\ month\ part\ of\ the\ date\ (1\ -\ 12).\n\ @param\ y\ the\ year\ part\ of\ the\ date.\n
+comment3.params=d\ m\ y
+comment3.target=void\ setDate(int,\ int,\ int)
+comment3.text=\n\ allows\ the\ date\ to\ be\ set\ but\ no\ error\ checking\ in\ this\ version\ \!\n\ @param\ d\ the\ day\ part\ of\ the\ date\ (1\ -\ 31,\ depending\ on\ the\ month).\n\ @param\ m\ the\ month\ part\ of\ the\ date\ (1\ -\ 12).\n\ @param\ y\ the\ year\ part\ of\ the\ date.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ returns\ a\ String\ representation\ of\ the\ date\n\ @return\ the\ date\ as\ a\ String,\ int\ the\ format\ "09/11/2002"\n
+comment5.params=i
+comment5.target=java.lang.String\ as2Digits(int)
+comment5.text=Internal\ method\ to\ add\ a\ leading\ zero\ if\ necessary.
+comment6.params=month
+comment6.target=int\ getMonthLength(int)
+comment7.params=d
+comment7.target=void\ addDays(int)
+comment8.params=
+comment8.target=int\ julianDate()
+numComments=9

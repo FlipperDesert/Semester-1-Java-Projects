@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=Circle(double)
+comment0.text=\n\ Constructor\ takes\ the\ circle\ radius\n
+comment1.params=
+comment1.target=double\ getArea()
+comment1.text=\n\ Returns\ the\ area\ as\ a\ double\n
+comment2.params=
+comment2.target=double\ getRadius()
+comment2.text=\n\ returns\ the\ radius\ as\ a\ double\n
+numComments=3

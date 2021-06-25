@@ -1,0 +1,43 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=This\ interface\ specifies\ the\ methods\ required\ to\ manage\ a\ Xanadu\ dome\ \n\ which\ consists\ of\ a\ number\ of\ caverns\ joined\ by\ one-way\ doors.New\n\ users(passes)always\ start\ in\ the\ Outside\ cavern\ and\ may\ use\ their\ \n\ tokens\ to\ move\ to\ other\ caverns,\ provided\ conditions\ are\ met\n\n\ @author\ A.A.Marczyk\ \n\ @version\ 18/11/19\n
+comment1.params=
+comment1.target=java.lang.String\ getDomeName()
+comment1.text=\ Returns\ the\ name\ of\ the\ dome\n\ @return\ name\ of\ the\ dome\n
+comment10.params=pId\ tkns
+comment10.target=void\ topUpTokens(int,\ int)
+comment10.text=\ Allows\ a\ pass\ to\ top\ up\ its\ tokens.This\ method\ is\ not\ \n\ concerned\ with\ the\ cost\ of\ a\ token\ as\ charges\ may\ vary\ \n\ between\ facilities.\n\ @param\ pId\ the\ id\ of\ the\ pass\ toping\ up\ its\ tokens\n\ @param\ tkns\ the\ number\ of\ tokens\ purchased\ to\ be\ added\ to\n\ the\ pass.\n
+comment11.params=pId
+comment11.target=void\ convertPoints(int)
+comment11.text=\ Converts\ a\ loyalty\ pass's\ loyalty\ points\ into\ tokens\n\ @param\ pId\ the\ id\ of\ the\ pass\ whose\ points\ are\ to\ be\ converted\n
+comment12.params=pId
+comment12.target=java.lang.String\ moveToOutside(int)
+comment12.text=\ Moves\ a\ pass\ directly\ to\ the\ outside\ without\ affecting\ \n\ tokens\ or\ other\ information\ and\ using\ emergency\ exits\n\ @param\ pId\ the\ id\ of\ the\ pass\ to\ be\ moved\ to\ outside\n\ @return\ a\ message\ giving\ the\ user's\ name\ and\ "to\ outside"\n
+comment13.params=
+comment13.target=void\ moveAll()
+comment13.text=\ In\ an\ emergency,\ moves\ all\ passes\ directly\ back\ to\ \n\ the\ outside\ \ without\ affecting\ tokens\ or\ other\ \n\ information\ using\ emergency\ exits\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\ Returns\ all\ information\ about\ the\ current\ state\ of\ the\ dome,\ \n\ including\ all\ passes\ in\ all\ caverns,\ by\ cavern\ name\n\ @return\ all\ information\ about\ the\ current\ state\ of\ the\ the\ dome\n
+comment3.params=
+comment3.target=java.lang.String\ getAllPasses()
+comment3.text=\ Returns\ information\ about\ all\ passes\ (but\ not\ location)\n\ @return\ all\ information\ about\ all\ passes\n
+comment4.params=
+comment4.target=java.lang.String\ getCavernNames()
+comment4.text=\ \n\ Return\ the\ names\ of\ all\ the\ caverns\n
+comment5.params=cName
+comment5.target=java.lang.String\ passesInCavern(java.lang.String)
+comment5.text=\ Returns\ a\ String\ representation\ of\ all\ the\ passes\ in\ the\n\ specified\ cavern\n\ @param\ cName\ the\ name\ of\ the\ specified\ cavern\n\ @return\ a\ String\ representation\ of\ all\ passes\ in\ the\ Cavern\n
+comment6.params=
+comment6.target=java.lang.String\ passesInAllCaverns()
+comment6.text=Returns\ a\ String\ representation\ of\ all\ the\ passes\ in\ all\ caverns\ (by\ cavern)\n\ @return\ a\ String\ representation\ of\ all\ passes\ in\ all\ caverns\n
+comment7.params=pId\ dNo
+comment7.target=java.lang.String\ enterCavern(int,\ int)
+comment7.text=Returns\ the\ result\ of\ a\ pass\ wanting\ to\ enter\ through\ a\ \n\ door.Entry\ will\ be\ successful\ if\:\ \ \n\ the\ rating\ of\ the\ pass\ \ >\=\ the\ rating\ of\ the\ destination\ cavern\n\ AND\ the\ destination\ cavern\ is\ not\ full\n\ AND\ the\ pass\ has\ sufficient\ tokens\n\ AND\ the\ pass\ is\ currently\ in\ the\ source\ cavern\n\ If\ the\ door\ allows\ entry,\ the\ pass\ is\ removed\ from\ the\ \n\ source\ cavern,\ added\ to\ the\ destination\ cavern\ and\ a\ suitable\ \n\ message\ returned.If\ the\ door\ does\ not\ allow\ entry,\ the\ \n\ state\ of\ the\ system\ remains\ unchanged\ and\ a\ suitable\ message\ \n\ specifying\ the\ reason\ is\ returned.\n\ @param\ pId\ is\ the\ id\ of\ the\ pass\ requesting\ to\ enter\n\ @param\ dNo\ is\ the\ number\ of\ the\ door\ through\ which\ the\ pass\n\ wants\ to\ enter\n\ @return\ a\ String\ which\ includes\ pass\ id,\ pass\ name,\ name\ of\ \n\ destination\ cavern\ and\ giving\ the\ result\ of\ the\ request\ \n
+comment8.params=pId\ dNo
+comment8.target=boolean\ canEnter(int,\ int)
+comment8.text=Returns\ true\ if\ a\ pass\ is\ allowed\ to\ enter\ through\ the\ door,\ \n\ false\ otherwise.Entry\ can\ be\ made\ if\:\ \ \n\ the\ rating\ of\ the\ pass\ \ >\=\ the\ rating\ of\ the\ destination\ cavern\n\ AND\ the\ destination\ cavern\ is\ not\ full\n\ AND\ the\ pass\ has\ sufficient\ tokens\n\ AND\ the\ pass\ is\ currently\ in\ the\ source\ cavern\n\ @param\ pId\ is\ the\ id\ of\ the\ pass\ requesting\ the\ move\n\ @param\ dNo\ is\ the\ number\ of\ the\ door\ through\ which\ the\ pass\ \n\ wants\ to\ enter\n\ @return\ true\ if\ the\ pass\ can\ enter\ through\ the\ door,else\ \n\ false\n
+comment9.params=pId
+comment9.target=java.lang.String\ findPass(int)
+comment9.text=Returns\ the\ cavern\ which\ contains\ the\ specified\ pass\n\ @param\ pId\ is\ the\ id\ of\ the\ specified\ pass\n\ @return\ the\ name\ of\ the\ Cavern\ which\ contains\ the\ pass\n
+numComments=14

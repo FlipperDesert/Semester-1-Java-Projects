@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Notebook
+comment0.text=\n\ Stores\ "notes".\ \ Notes\ are\ objects\ of\ the\ Note\ class\n
+comment1.params=
+comment1.target=Notebook()
+comment1.text=\n\ Construct\ an\ empty\ notebook\n
+comment2.params=index\ note
+comment2.target=void\ storeNote(int,\ Note)
+comment2.text=\n\ Store\ a\ new\ note\ into\ the\ notebook\ by\ appending\ it\ \n\ to\ the\ end\ of\ the\ current\ list\ of\ notes\n\ @param\ note\ The\ note\ to\ be\ stored.\n
+comment3.params=index
+comment3.target=Note\ retrieveNote(int)
+comment3.text=\n\ Retrieves\ the\ note\ stored\ in\ the\ position\ supplied\ as\ a\ parameter.\ \ \n\ The\ parameter\ must\ be\ >\=\ 0\ and\ <\ the\ number\ of\ notes\ in\ the\ notebook.\n\ If\ the\ index\ parameter\ is\ out\ of\ this\ range\ null\ will\ be\ returned\n\ @return\ the\ note\ \n
+comment4.params=input
+comment4.target=Note\ retrieveNote(java.lang.String)
+comment5.params=index
+comment5.target=void\ deleteNote(int)
+comment5.text=\n\ Deletes\ the\ Note\ at\ the\ position\ supplied\ as\ a\ parameter.\ \ \n\ The\ parameter\ must\ be\ >\=\ 0\ and\ <\ the\ number\ of\ notes\ in\ the\ notebook.\n\ If\ the\ index\ parameter\ is\ out\ of\ this\ range\ no\ action\ will\ be\ taken\n\ @param\ int\ index\ of\ the\ Note\ to\ be\ deleted\n
+comment6.params=
+comment6.target=int\ numberOfNotes()
+comment6.text=\n\ @return\ The\ number\ of\ notes\ currently\ in\ the\ notebook.\n
+comment7.params=
+comment7.target=void\ showAllNotes()
+comment7.text=\n\ Show\ all\ the\ notes\ contained\ in\ the\ note\ book.\n\ \n
+comment8.params=index
+comment8.target=boolean\ inBounds(int)
+comment8.text=this\ is\ a\ private\ method.\ \ It\ cannot\ be\ seen\ or\ accessed\ by\ anything\ outside\ this\nclass.\ \ It\ does\ not\ have\ Javadoc\ style\ comments.\ \ This\ comment\ is\ purely\ for\ learning\n\ purposes.\n
+numComments=9

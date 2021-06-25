@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CounterTester
+comment0.text=\n\ Tester\ for\ the\ class\ Counter.\n
+comment1.params=
+comment1.target=void\ count()
+comment1.text=\n\ Display\ and\ test\ the\ functionality\ of\ the\ Counter\ class\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=idNumber\ name\ department\ salary
+comment0.target=Lecturer(int,\ String,\ String,\ double)
+comment1.target=String\ toString()
+numComments=2

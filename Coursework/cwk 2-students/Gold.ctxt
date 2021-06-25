@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Gold
+comment0.text=\n\ Creates\ a\ Gold\ pass\ object\n\ @author\ (J\ Reece)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=nam\ rat
+comment1.target=Gold(java.lang.String,\ int)
+comment1.text=\n\ The\ constructors\ for\ the\ Gold\ Pass\n\ @param\ loyalty\ is\ the\ loyalty\ points\ value\ for\ the\ pass\ and\ \n\ always\ starts\ at\ 10.\ nam\ is\ the\ pass\ name,\ rat\ is\ \n\ the\ pass\ rating\ and\ the\ token\ value\ starts\ at\ 30\n
+comment2.params=points
+comment2.target=void\ addLoyalty(int)
+comment2.text=\n\ Adds\ loyalty\ points\ to\ the\ pass\n\ @param\ points\ is\ the\ number\ of\ loyalty\ points\ to\ add\n
+comment3.params=
+comment3.target=int\ getLoyalty()
+comment3.text=\n\ Returns\ the\ loyalty\ points\ total\n
+comment4.params=
+comment4.target=void\ toToken()
+comment4.text=\n\ Converts\ 5\ loyalty\ points\ to\ 1\ token\n
+comment5.params=
+comment5.target=void\ enterCavern()
+comment5.text=\n\ Enters\ a\ cavern,\ deducts\ 3\ tokens\ and\ adds\ 2\ loyalty\ points\n
+comment6.params=
+comment6.target=boolean\ hasTokens()
+comment6.text=\n\ Checks\ if\ the\ pass\ has\ enough\ tokens\ to\ enter\ a\ cavern.\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ Returns\ a\ string\ of\ information\ on\ the\ pass.\n
+numComments=8

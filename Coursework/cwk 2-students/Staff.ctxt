@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Staff
+comment0.text=\n\ Creates\ a\ Staff\ pass\ object.\n\ @param\ nam\ is\ the\ pass\ name,\ num\ is\ the\ employee\ number,\ title\ \n\ is\ the\ job\ title.\ The\ rating\ and\ tokens\ for\ each\ staff\ pass\ are\ \n\ 10\ and\ 5.\n\n\ @author\ (J\ Reece)\n\ @version\ (16/12/19)\n
+comment1.params=nam\ num\ title
+comment1.target=Staff(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\n\ The\ constructors\ for\ the\ Staff\ Pass.\ nam\ is\ name\ num\ is\ the\ \n\ employee\ number,\ title\ is\ the\ job\ title.\n
+comment2.params=
+comment2.target=void\ enterCavern()
+comment2.text=\n\ Enters\ a\ cavern\ and\ deducts\ one\ token\n
+comment3.params=
+comment3.target=boolean\ hasTokens()
+comment3.text=\n\ Checks\ if\ the\ pass\ has\ enough\ tokens\ to\ enter\ a\ cavern.\ \n
+comment4.params=
+comment4.target=int\ getEmpNo()
+comment4.text=\n\ Returns\ the\ employee\ number\n
+comment5.params=
+comment5.target=java.lang.String\ getJob()
+comment5.text=\n\ Returns\ the\ job\ title\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Returns\ a\ string\ of\ information\ on\ the\ pass\n
+numComments=7

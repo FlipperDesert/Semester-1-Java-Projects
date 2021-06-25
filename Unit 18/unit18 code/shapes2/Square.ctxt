@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\nSimple\ rectangle\ class\n
+comment1.params=c\ s
+comment1.target=Square(java.awt.Color,\ int)
+comment1.text=\n\ Constructor\ supplying\ width\ and\ height.\ \ Values\ should\ be\ positive\n
+comment2.params=
+comment2.target=double\ getArea()
+comment2.text=\nReturns\ the\ area\ as\ a\ double\n
+comment3.params=
+comment3.target=java.lang.String\ describeType()
+numComments=4

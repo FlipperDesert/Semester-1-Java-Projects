@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\n\ Write\ a\ description\ of\ class\ Person\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=id\ name
+comment1.target=Person(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getIdNo()
+comment2.text=\n\ returns\ student\ id\ as\ an\ int\n\ @return\ value\ returned\ is\ student\ id\ as\ an\ int\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\n\ returns\ student\ name\ as\ a\ String\n\ @return\ value\ returned\ is\ student\ name\ as\ a\ String\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

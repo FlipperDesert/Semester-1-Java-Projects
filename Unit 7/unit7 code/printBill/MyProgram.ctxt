@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MyProgram
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyProgram\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ runMyProgram()
+comment2.params=
+comment2.target=int\ getQuantity()
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=quantity\ price
+comment4.target=double\ calcTotal(int,\ double)
+comment5.params=quantity\ price\ total
+comment5.target=void\ printBill(int,\ double,\ double)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=n\ dobDay\ dobMonth\ dobYear\ gradDay\ gradMonth\ gradYear
+comment0.target=Student(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int)
+comment0.text=\r\nCreate\ a\ Student\ with\ a\ name\ and\ date\ of\ birth\ and\ likely\ date\ of\ graduation\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\nGet\ the\ name\ the\ student\ as\ a\ String\r\n
+comment2.params=
+comment2.target=Date\ getDateOfBirth()
+comment2.text=\r\nGet\ the\ date\ of\ birth\ as\ a\ Date\r\n
+comment3.params=
+comment3.target=Date\ getGraduationDate()
+comment3.text=\r\nGet\ the\ date\ of\ graduation\r\n
+comment4.params=gd
+comment4.target=void\ setGraduationDate(Date)
+comment4.text=\r\nset\ the\ graduation\ date\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

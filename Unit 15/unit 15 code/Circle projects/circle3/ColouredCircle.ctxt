@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=c\ r
+comment0.target=ColouredCircle(java.awt.Color,\ double)
+comment0.text=\r\n\ Constructor\ takes\ a\ java.awt.Color\ and\ circle\ radius\r\n
+comment1.params=r
+comment1.target=ColouredCircle(double)
+comment1.text=\r\n\ Constructor\ takes\ the\ circle\ radius\ and\ sets\ default\ colour\ to\ Color.BLUE\r\n
+comment2.params=
+comment2.target=ColouredCircle()
+comment2.text=\r\n\ Constructor\ with\ no\ arguments\ defaults\ colour\ to\ Color.BLUE\ and\ radius\ \=\ 100;\r\n
+comment3.params=c
+comment3.target=ColouredCircle(java.awt.Color)
+comment4.params=
+comment4.target=java.awt.Color\ getColour()
+comment4.text=\r\n\ Returns\ java.awt.Color\ -\ the\ colour\ of\ this\ circle\r\n
+comment5.params=
+comment5.target=void\ setColour()
+comment5.text=\r\n\ Set\ the\ colour\ to\ the\ default\ which\ is\ Color.BLACK\r\n
+comment6.params=c
+comment6.target=void\ setColour(java.awt.Color)
+comment6.text=\r\n\ Set\ the\ colour\ to\ the\ Color\ passed\ in\ as\ a\ parameter\r\n
+comment7.params=r\ g\ b
+comment7.target=void\ setColour(int,\ int,\ int)
+comment7.text=\r\nSet\ the\ colour\ to\ with\ a\ new\ Color\ composed\ the\ int\ values\ passed\ in.\ \ \r\nThe\ range\ of\ each\ of\ these\r\n\ values\ must\ be\ 0\ -\ 255\r\n\r\n
+numComments=8

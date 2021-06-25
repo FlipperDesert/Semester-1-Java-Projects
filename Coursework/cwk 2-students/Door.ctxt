@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Door
+comment0.text=\n\ Creates\ a\ one-way\ Door\ object\ which\ takes\ a\ user\ from\ a\ source\ \n\ cavern\ and\ places\ them\ in\ a\ destination\n\ @param\ doorNum\ is\ the\ ID\ number\ of\ the\ door,\ source\ is\ the\ input\ \n\ cavern\ and\ destination\ is\ the\ output\ cavern\n\n\ @author\ (J\ Reece)\n\ @version\ (16/12/19)\n
+comment1.params=num\ src\ dst
+comment1.target=Door(int,\ Cavern,\ Cavern)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Door\n\ @param\ num\ is\ the\ door\ number,\ src\ is\ the\ source\ cavern\n\ and\ dst\ is\ the\ destination\ cavern\n
+comment2.params=
+comment2.target=int\ getDoorNum()
+comment2.text=\n\ Returns\ the\ door\ number\n
+comment3.params=
+comment3.target=Cavern\ getSource()
+comment3.text=\n\ Returns\ the\ source\ cavern\n
+comment4.params=
+comment4.target=Cavern\ getDestination()
+comment4.text=\n\ returns\ the\ destination\ cavern\n
+comment5.params=tempPass
+comment5.target=void\ enter(Pass)
+comment5.text=\n\ Removes\ the\ pass\ from\ the\ source\ cavern\ and\ enters\ them\ into\n\ a\ destination\ cavern\n\ @param\ tempPass\ is\ the\ moving\ Pass\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Returns\ a\ string\ of\ information\ about\ the\ door\n
+numComments=7

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MyGui2
+comment0.text=\r\n\ ImageViewer\ is\ the\ main\ class\ of\ the\ image\ viewer\ application.\ It\ builds\ \r\n\ and\ displays\ the\ application\ GUI.\r\n\ \r\n\ This\ version\ has\ a\ number\ of\ events\ that\ need\ to\ be\ handled\ \r\n\ Still\ using\ "centralised"\ event\ handling\r\n\ \r\n\ Components\ declared\ "outside"\ methods,\ so\ they\ can\ be\ used\ in\ other\ methods\r\n\ @author\ Michael\ Kolling\ and\ David\ J\ Barnes\ \r\n\ @version\ 0.2\r\n
+comment1.params=
+comment1.target=MyGui2()
+comment1.text=\r\n\ Create\ an\ ImageViewer\ show\ it\ on\ screen.\r\n
+comment2.params=
+comment2.target=void\ makeFrame()
+comment2.text=\r\n\ Create\ the\ Swing\ frame\ and\ its\ content.\r\n
+comment3.params=
+comment3.target=void\ makeMenuBar()
+comment3.text=\r\n\ Create\ the\ main\ frame's\ menu\ bar.\r\n
+comment4.params=event
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\ This\ method\ now\ handles\ all\ event\ "centrally".\ It\ must\ first\ identify\ which\ \r\n\ component\ has\ been\ activated\ \r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

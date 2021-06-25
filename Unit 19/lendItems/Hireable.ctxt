@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=person
+comment0.target=void\ hire(java.lang.String)
+comment0.text=\r\n\ Lend\ this\ Hireable\ to\ the\ person\ with\ the\ supplied\ name.\r\n
+comment1.params=
+comment1.target=void\ bringBack()
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=ref\ nme
+comment0.target=Digger(int,\ java.lang.String)
+comment1.params=person
+comment1.target=void\ hire(java.lang.String)
+comment2.params=
+comment2.target=void\ bringBack()
+comment3.params=
+comment3.target=void\ needsTraining()
+numComments=4

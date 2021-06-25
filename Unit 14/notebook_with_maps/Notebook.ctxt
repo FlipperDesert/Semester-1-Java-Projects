@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Notebook()
+comment0.text=\r\n\ Construct\ an\ empty\ notebook\r\n
+comment1.params=note
+comment1.target=void\ storeNote(Note)
+comment1.text=\r\n\ Store\ a\ new\ note\ into\ the\ notebook\ by\ appending\ it\ \r\n\ to\ the\ end\ of\ the\ current\ list\ of\ notes\r\n\ @param\ note\ The\ note\ to\ be\ stored.\r\n
+comment2.params=heading
+comment2.target=Note\ retrieveNote(java.lang.String)
+comment2.text=\ OLD\ Comment\:\r\n\ Retrieves\ the\ note\ stored\ in\ the\ position\ supplied\ as\ a\ parameter.\ \ \r\n\ The\ parameter\ must\ be\ >\=\ 0\ and\ <\ the\ number\ of\ notes\ in\ the\ notebook.\r\n\ If\ the\ index\ parameter\ is\ out\ of\ this\ range\ null\ will\ be\ returned\r\n\ NEW\ Comment\:\r\n\ Retrieves\ the\ note\ using\ the\ heading\ as\ the\ key\r\n\ No\ need\ for\ a\ "linear\ search"\r\n\ @return\ the\ note\ \r\n
+comment3.params=heading
+comment3.target=void\ deleteNote(java.lang.String)
+comment3.text=\ OLD\ Comment\r\n\ Deletes\ the\ Note\ at\ the\ position\ supplied\ as\ a\ parameter.\ \ \r\n\ The\ parameter\ must\ be\ >\=\ 0\ and\ <\ the\ number\ of\ notes\ in\ the\ notebook.\r\n\ If\ the\ index\ parameter\ is\ out\ of\ this\ range\ no\ action\ will\ be\ taken\r\n\ NEW\ Comment\r\n\ Deletes\ the\ Note\ with\ the\ heading\ as\ key\r\n\ @param\ int\ index\ of\ the\ Note\ to\ be\ deleted\r\n
+comment4.params=
+comment4.target=int\ numberOfNotes()
+comment4.text=\r\n\ @return\ The\ number\ of\ notes\ currently\ in\ the\ notebook.\r\n
+comment5.params=
+comment5.target=void\ showAllNotes()
+comment5.text=\r\n\ Show\ all\ the\ notes\ contained\ in\ the\ note\ book.\r\n\ New\ Comments\ \:\ but\ this\ is\ more\ complex\ than\ the\ old\ version\r\n
+numComments=6

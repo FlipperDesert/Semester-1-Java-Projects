@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=PriorityList()
+comment0.text=Constructor\ creates\ an\ empty\ priority\ list\ with\ length\ 0\ *\n
+comment1.params=item
+comment1.target=void\ add(Prioritisable)
+comment1.text=\nAdds\ an\ item\ in\ a\ place\ appropriate\ to\ its\ priority.\n\nIf\ the\ priority\ list\ is\ empty,\ the\ item\ will\ be\ added\ at\ the\ start\ \nof\ the\ list.If\ the\ priority\ list\ contains\ at\ least\ one\ item,\ the\ \nitem\ is\ added\ in\ a\ position\ appropriate\ to\ its\ priority.An\ item\ with\npriority\ 3\ will\ be\ stored\ ahead\ of\ an\ item\ with\ priority\ 2.Items,with\nthe\ same\ priority\ will\ be\ stored\ in\ the\ order\ in\ which\ they\ are\ added.\ \n@param\ item\ must\ be\ of\ a\ class\ which\ implements\ the\ Prioritisable\ \n\n
+comment2.params=i
+comment2.target=void\ remove(int)
+comment2.text=Removes\ the\ item\ at\ the\ specified\ position.\nThe\ first\ item\ is\ in\ position\ 0\nthe\ gap\ created\ by\ the\ removal\ of\ an\ item\ is\ closed\n@param\ i\ represents\ the\ position\ of\ the\ item\n\n
+comment3.target=void\ clear()
+comment3.text=Removes\ all\ the\ items\ in\ the\ list\n\n
+comment4.target=int\ size()
+comment4.text=Returns\ the\ number\ of\ items\ in\ the\ list\n@return\ number\ of\ items\ in\ the\ list\n\n
+comment5.target=boolean\ isEmpty()
+comment5.text=Returns\ true\ if\ the\ list\ has\ no\ items,\ false\ otherwise\n@return\ true\ if\ list\ is\ empty,\ false\ otherwise\n\n
+comment6.params=s
+comment6.target=int\ indexOf(Prioritisable)
+comment6.text=Searches\ for\ the\ first\ occurence\ of\ the\ given\ argument,\ testing\ \nfor\ equality\ using\ the\ equals\ method.\n@param\ s\ represents\ the\ item\ whose\ position\ in\ the\ list\ is\ sought\n@return\ the\ position\ of\ the\ object\ given\ as\ a\ parameter\n\n
+comment7.target=String\ toString()
+numComments=8

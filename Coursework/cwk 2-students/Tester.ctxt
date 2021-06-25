@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\n\ Creates\ a\ Dome\ and\ tests\ method\ calls\ on\ it.\ \n\ \n\ @author\ (J\ Reece)\ \n\ @version\ (16/12/19)\n
+comment1.params=
+comment1.target=void\ doTest()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

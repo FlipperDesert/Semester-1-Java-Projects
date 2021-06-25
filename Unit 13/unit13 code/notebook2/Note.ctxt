@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Note
+comment0.text=\n\ A\ Note\ is\ a\ class\ for\ storing\ text\ with\ a\ heading.\n\ It\ uses\ an\ API\ (library)\ class\ StringBuilder\n\ @author\ Ian\ Bradford\n\ @version\ 1.00\n
+comment1.params=heading
+comment1.target=Note(java.lang.String)
+comment1.text=\n\ Create\ a\ note\ with\ a\ supplied\ heading\n\ @param\ -\ the\ heading\ of\ the\ note\n
+comment2.params=hding\ text
+comment2.target=Note(java.lang.String,\ java.lang.String)
+comment3.params=text
+comment3.target=void\ append(java.lang.String)
+comment3.text=\n\ Add\ content\ to\ the\ note\ (append).\ \ If\ there\ is\ no\ text\ in\ the\ note\n\ then\ this\ text\ is\ first\ content.\ \ If\ there\ is\ already\ text\ the\ this\ is\ \n\ appended\n\ \n\ @param\ \ text\ -\ the\ content\ you\ wish\ to\ add\n\ \n
+comment4.params=
+comment4.target=java.lang.String\ getHeading()
+comment5.params=
+comment5.target=java.lang.String\ getContent()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=void\ addInt(int)
+comment1.params=pos\ x
+comment1.target=void\ addInt(int,\ int)
+comment2.params=
+comment2.target=void\ output()
+comment3.params=index
+comment3.target=void\ removeInt(int)
+comment4.params=x
+comment4.target=int\ findIntPosition(int)
+comment5.params=pos
+comment5.target=int\ getInt(int)
+comment6.params=value
+comment6.target=int\ getIntbyValue(int)
+numComments=7

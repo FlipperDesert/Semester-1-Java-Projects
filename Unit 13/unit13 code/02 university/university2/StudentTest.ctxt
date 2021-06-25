@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StudentTest
+comment0.text=\r\n\ class\ StudentTest\ tests\ the\ Student\ class\ by\ creating\ some\r\n\ Student\ objects\ and\ calling\ their\ methods.\r\n\ StudentTest\ is\ a\ client\ of\ Student\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ doTest()
+numComments=2

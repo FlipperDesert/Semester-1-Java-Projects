@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Business
+comment0.text=\n\ Creates\ a\ Business\ pass\ object\ \n\ @param\ comp\ is\ the\ company\ name,\ name\ is\ the\ pass\ name,\ rat\ is\ \n\ the\ pass\ rating,\ tkns\ is\ the\ token\ value\n\ \n\ @author\ (J\ Reece)\ \n\ @version\ (16/12/19)\n
+comment1.params=nam\ rat\ tkns\ comp
+comment1.target=Business(java.lang.String,\ int,\ int,\ java.lang.String)
+comment1.text=\n\ The\ constructors\ for\ the\ Business\ Pass\n\ @param\ nam\ is\ the\ name,\ rat\ is\ the\ rating,\ tkns\ is\ the\ \n\ token\ value\ and\ comp\ is\ the\ company\ name\n
+comment2.params=
+comment2.target=void\ enterCavern()
+comment2.text=\n\ Enters\ a\ cavern\ and\ deducts\ 4\ tokens\n
+comment3.params=
+comment3.target=boolean\ hasTokens()
+comment3.text=\n\ Checks\ if\ the\ pass\ has\ enough\ tokens\ to\ enter\ a\ cavern\n
+comment4.params=
+comment4.target=java.lang.String\ getCompany()
+comment4.text=\n\ Returns\ the\ company\ name\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ a\ string\ of\ information\ on\ the\ pass\n
+numComments=6

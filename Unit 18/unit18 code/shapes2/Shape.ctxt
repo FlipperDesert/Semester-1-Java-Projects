@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\n\ Abstract\ class\ for\ a\ Shape\n
+comment1.params=colour
+comment1.target=Shape(java.awt.Color)
+comment2.params=
+comment2.target=double\ getArea()
+comment2.text=\n\ Returns\ the\ area\ of\ a\ Shape\n
+comment3.params=
+comment3.target=java.lang.String\ describeType()
+comment4.params=
+comment4.target=java.awt.Color\ getColor()
+comment4.text=\n\ Returns\ the\ colour\ of\ a\ Shape\ \n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

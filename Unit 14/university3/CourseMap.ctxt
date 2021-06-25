@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=n\ c
+comment0.target=CourseMap(java.lang.String,\ int)
+comment1.params=s
+comment1.target=void\ addStudent(Student)
+comment2.params=stNo
+comment2.target=Student\ findStudent(int)
+comment3.params=nme
+comment3.target=Student\ findStudentByName(java.lang.String)
+comment4.params=
+comment4.target=void\ showAll()
+comment5.params=
+comment5.target=int\ getCount()
+comment6.params=id
+comment6.target=java.lang.String\ getStudentName(int)
+comment7.params=id
+comment7.target=int\ getCredits(int)
+comment8.params=id\ creds
+comment8.target=void\ updateCredits(int,\ int)
+numComments=9

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MyProgram
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyProgram\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ runMyProgram()
+comment2.params=
+comment2.target=int[]\ fillDatabase()
+comment2.text=\ method\ to\ fill\ the\ DB\ with\ random\ numbers\n
+comment3.params=db\ skey
+comment3.target=int\ search(int[],\ int)
+comment3.text=\ method\ to\ search\ a\ int[]\ using\ a\ search\ key\n
+comment4.params=db
+comment4.target=int[]\ reverser(int[])
+comment5.params=database
+comment5.target=void\ printDB(int[])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

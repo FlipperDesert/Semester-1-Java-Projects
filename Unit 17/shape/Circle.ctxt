@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=c\ r
+comment0.target=Circle(java.awt.Color,\ double)
+comment0.text=\r\nCreate\ a\ circle\ with\ radius\ r\r\n
+comment1.params=
+comment1.target=double\ getArea()
+comment1.text=\r\nget\ the\ area\ of\ this\ circle\ as\ a\ double\r\n
+comment2.params=
+comment2.target=double\ getRadius()
+comment2.text=\r\nGet\ the\ radius\ as\ a\ double\r\n
+comment3.params=o
+comment3.target=boolean\ equals(java.lang.Object)
+comment3.text=\r\n\ Two\ circles\ are\ equal\ if\ their\ radii\ are\ equal.\ \ \r\n\ This\ is\ the\ overidden\ version\ of\ the\ method\ inherited\ from\ Object\r\n\ @param\ o\ -\ another\ Circle\r\n
+comment4.params=
+comment4.target=int\ hashCode()
+comment4.text=\r\n\ Returns\ an\ int\ which\ is\ a\ hashcode\ for\ this\ object.\ \r\n\ This\ is\ the\ overidden\ version\ of\ the\ method\ inherited\ from\ Object\ and\ the\ documentation\ states\:\r\n\ "If\ two\ objects\ are\ equal\ according\ to\ the\ equals(Object)\ method,\ \r\n\ then\ calling\ the\ hashCode\ method\ on\ each\ of\ the\ two\ objects\ must\ produce\ the\ same\ integer\ result"\ so\ \r\n\ the\ hashcode\ is\ generated\ from\ the\ radius.\r\n
+numComments=5

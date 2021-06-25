@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=n\ id
+comment0.target=Student(java.lang.String,\ int)
+comment1.params=
+comment1.target=int\ getPriority()
+comment2.params=
+comment2.target=int\ getStudentNo()
+comment3.params=c
+comment3.target=void\ addCredits(int)
+comment4.params=
+comment4.target=int\ getCredits()
+comment5.params=f
+comment5.target=void\ setFees(double)
+comment6.params=p
+comment6.target=void\ payFees(double)
+comment7.params=
+comment7.target=boolean\ hasPaid()
+comment8.params=
+comment8.target=double\ getFeesOutstanding()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

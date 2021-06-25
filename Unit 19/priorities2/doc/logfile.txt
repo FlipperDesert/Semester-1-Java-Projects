@@ -1,0 +1,95 @@
+Class documentation
+<---- javadoc command: ---->
+c:\j2sdk1.4.1_01\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.4
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+G:\Programming 2_05\Cwk 2\cwk2 - full answers\doc
+-classpath
+C:\Program Files\BlueJ135\lib\junit.jar
+G:\Programming 2_05\Cwk 2\cwk2 - full answers\CentreManager.java
+<---- end of javadoc command ---->
+Loading source file G:\Programming 2_05\Cwk 2\cwk2 - full answers\CentreManager.java...
+Constructing Javadoc information...
+G:\Programming 2_05\Cwk 2\cwk2 - full answers\CentreManager.java:8: cannot resolve symbol
+symbol  : class SiteControl 
+location: class CentreManager
+public class CentreManager implements SiteControl
+                                      ^
+G:\Programming 2_05\Cwk 2\cwk2 - full answers\CentreManager.java:16: cannot resolve symbol
+symbol  : class PriorityList 
+location: class CentreManager
+    private PriorityList cardsPrioritised = new PriorityList();
+            ^
+G:\Programming 2_05\Cwk 2\cwk2 - full answers\CentreManager.java:23: cannot resolve symbol
+symbol  : class Zone 
+location: class CentreManager
+    public void addZone(Zone z) {zones.add(z);}
+                        ^
+G:\Programming 2_05\Cwk 2\cwk2 - full answers\CentreManager.java:24: cannot resolve symbol
+symbol  : class Card 
+location: class CentreManager
+    public void addCard(Card c) {cards.add(c);}
+                        ^
+G:\Programming 2_05\Cwk 2\cwk2 - full answers\CentreManager.java:25: cannot resolve symbol
+symbol  : class Gate 
+location: class CentreManager
+    public void addGate(Gate g) {gates.add(g);}
+                        ^
+G:\Programming 2_05\Cwk 2\cwk2 - full answers\CentreManager.java:27: cannot resolve symbol
+symbol  : class Card 
+location: class CentreManager
+    public Zone findCard(Card c)
+                         ^
+G:\Programming 2_05\Cwk 2\cwk2 - full answers\CentreManager.java:27: cannot resolve symbol
+symbol  : class Zone 
+location: class CentreManager
+    public Zone findCard(Card c)
+           ^
+G:\Programming 2_05\Cwk 2\cwk2 - full answers\CentreManager.java:40: cannot resolve symbol
+symbol  : class Zone 
+location: class CentreManager
+    public Zone findZone(String zoneName)
+           ^
+G:\Programming 2_05\Cwk 2\cwk2 - full answers\CentreManager.java:53: cannot resolve symbol
+symbol  : class Card 
+location: class CentreManager
+       public void addToOutside(Card c)
+                                ^
+G:\Programming 2_05\Cwk 2\cwk2 - full answers\CentreManager.java:81: cannot resolve symbol
+symbol  : class Card 
+location: class CentreManager
+    public String move(Card c, Gate g)
+                       ^
+G:\Programming 2_05\Cwk 2\cwk2 - full answers\CentreManager.java:81: cannot resolve symbol
+symbol  : class Gate 
+location: class CentreManager
+    public String move(Card c, Gate g)
+                               ^
+G:\Programming 2_05\Cwk 2\cwk2 - full answers\CentreManager.java:89: cannot resolve symbol
+symbol  : class Zone 
+location: class CentreManager
+    public String cardsInZone(Zone z)
+                              ^
+Standard Doclet version 1.4.1
+
+Generating G:\Programming 2_05\Cwk 2\cwk2 - full answers\doc\constant-values.html...
+Building tree for all the packages and classes...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating G:\Programming 2_05\Cwk 2\cwk2 - full answers\doc\allclasses-frame.html...
+Generating G:\Programming 2_05\Cwk 2\cwk2 - full answers\doc\allclasses-noframe.html...
+Generating G:\Programming 2_05\Cwk 2\cwk2 - full answers\doc\index.html...
+Generating G:\Programming 2_05\Cwk 2\cwk2 - full answers\doc\packages.html...
+Generating G:\Programming 2_05\Cwk 2\cwk2 - full answers\doc\CentreManager.html...
+Generating G:\Programming 2_05\Cwk 2\cwk2 - full answers\doc\package-list...
+Generating G:\Programming 2_05\Cwk 2\cwk2 - full answers\doc\stylesheet.css...
+12 warnings

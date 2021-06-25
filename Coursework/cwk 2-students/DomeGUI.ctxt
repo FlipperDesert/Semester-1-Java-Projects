@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DomeGUI
+comment0.text=\n\ Provide\ a\ GUI\ interface\ for\ the\ dome\n\ \n\ @author\ A.A.Marczyk\n\ @version\ 20/11/19\n
+comment1.params=
+comment1.target=DomeGUI()
+comment2.params=
+comment2.target=void\ makeFrame()
+comment2.text=\n\ Create\ the\ Swing\ frame\ and\ its\ content.\n
+comment3.params=frame
+comment3.target=void\ makeMenuBar(javax.swing.JFrame)
+comment3.text=\n\ Create\ the\ main\ frame's\ menu\ bar.\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

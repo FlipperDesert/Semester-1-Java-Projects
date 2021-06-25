@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Student\ class.\ \ This\ class\ shows\ how\ a\ class\ can\ contain\ other\ classes.\r\n
+comment1.params=n\ dob\ graduationDate
+comment1.target=Student(java.lang.String,\ Date,\ Date)
+comment1.text=\r\nCreate\ a\ Student\ with\ a\ name\ and\ date\ of\ birth\ and\ likely\ date\ of\ graduation\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\nGet\ the\ name\ the\ student\ as\ a\ String\r\n
+comment3.params=
+comment3.target=Date\ getDateOfBirth()
+comment3.text=\r\nGet\ the\ date\ of\ birth\ as\ a\ Date\r\n
+comment4.params=
+comment4.target=Date\ getGraduationDate()
+comment4.text=\r\nGet\ the\ date\ of\ graduation\r\n
+comment5.params=gd
+comment5.target=void\ setGraduationDate(Date)
+comment5.text=\r\nset\ the\ graduation\ date\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
